@@ -1,12 +1,18 @@
 # Automated-Report-Generation
+Name: Sushree Gayatri Nayak
 
-Automated Report Generation using Python
+Company: CODTECH IT SOLUTIONS
 
- Project Name: Automated Report Generation
- 
- Developer: Sushree Gayatri Nayak
- 
- Internship Task
+ID: CT6WUHQ
+
+Domain: PYTHON PROGRAMMING
+
+Duration: from February 15th, 2025 to March 30th, 2025
+
+Mentor: Neela Santhosh Kumar
+
+Project Name: Automated Report Generation
+
 
 🚀 Overview
 In today’s data-driven world, automated report generation is essential for efficiency and accuracy. This project automates the process of analyzing data, generating visualizations, and exporting reports as PDFs using Python. It eliminates manual efforts, ensuring fast and error-free reporting.
